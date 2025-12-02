@@ -1,0 +1,432 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pickfresh"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+11-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:6:5-81
+11-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:8:5-67
+13-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:9:5-79
+14-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:9:22-76
+15
+16    <uses-feature
+16-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+17        android:glEsVersion="0x00020000"
+17-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+18        android:required="true" />
+18-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+19
+20    <queries>
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+21
+22        <!-- Needs to be explicitly declared on Android R+ -->
+23        <package android:name="com.google.android.apps.maps" />
+23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+24    </queries>
+25
+26    <permission
+26-->[androidx.core:core:1.13.0] C:\Users\gowda\.gradle\caches\transforms-4\97441d8432f4533e8685295068468187\transformed\core-1.13.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.pickfresh.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.13.0] C:\Users\gowda\.gradle\caches\transforms-4\97441d8432f4533e8685295068468187\transformed\core-1.13.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.13.0] C:\Users\gowda\.gradle\caches\transforms-4\97441d8432f4533e8685295068468187\transformed\core-1.13.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.pickfresh.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.13.0] C:\Users\gowda\.gradle\caches\transforms-4\97441d8432f4533e8685295068468187\transformed\core-1.13.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.13.0] C:\Users\gowda\.gradle\caches\transforms-4\97441d8432f4533e8685295068468187\transformed\core-1.13.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:11:5-126:19
+33        android:allowBackup="true"
+33-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:12:9-35
+34        android:allowClearUserData="true"
+34-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:13:9-42
+35        android:allowClearUserDataOnFailedRestore="true"
+35-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:14:9-57
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.13.0] C:\Users\gowda\.gradle\caches\transforms-4\97441d8432f4533e8685295068468187\transformed\core-1.13.0\AndroidManifest.xml:28:18-86
+37        android:dataExtractionRules="@xml/data_extraction_rules"
+37-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:15:9-65
+38        android:extractNativeLibs="true"
+39        android:fullBackupContent="@xml/backup_rules"
+39-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:16:9-54
+40        android:icon="@drawable/fresh"
+40-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:17:9-39
+41        android:label="@string/app_name"
+41-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:21:9-41
+42        android:roundIcon="@drawable/fresh"
+42-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:18:9-44
+43        android:supportsRtl="true"
+43-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:22:9-35
+44        android:theme="@style/Theme.PickFresh"
+44-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:19:9-47
+45        android:usesCleartextTraffic="true" >
+45-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:20:9-44
+46        <activity
+46-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:26:9-28:40
+47            android:name="com.example.pickfresh.buyer.LoadUrl"
+47-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:27:13-42
+48            android:exported="false" />
+48-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:28:13-37
+49        <activity
+49-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:29:9-31:40
+50            android:name="com.example.pickfresh.seller.Schemes"
+50-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:30:13-43
+51            android:exported="false" />
+51-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:31:13-37
+52        <activity
+52-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:32:9-34:40
+53            android:name="com.example.pickfresh.admin.GovernmentScheme"
+53-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:33:13-51
+54            android:exported="false" />
+54-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:34:13-37
+55        <activity
+55-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:35:9-37:40
+56            android:name="com.example.pickfresh.buyer.ProflieActivity"
+56-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:36:13-50
+57            android:exported="false" />
+57-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:37:13-37
+58        <activity
+58-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:38:9-40:40
+59            android:name="com.example.pickfresh.buyer.CompletedActivity"
+59-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:39:13-52
+60            android:exported="false" />
+60-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:40:13-37
+61        <activity
+61-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:41:9-43:40
+62            android:name="com.example.pickfresh.seller.Userdeatils"
+62-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:42:13-47
+63            android:exported="false" />
+63-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:43:13-37
+64        <activity
+64-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:44:9-46:40
+65            android:name="com.example.pickfresh.seller.ViewAccepted"
+65-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:45:13-48
+66            android:exported="false" />
+66-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:46:13-37
+67        <activity
+67-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:47:9-49:40
+68            android:name="com.example.pickfresh.seller.ViewBuyerItems"
+68-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:48:13-50
+69            android:exported="false" />
+69-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:49:13-37
+70        <activity
+70-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:50:9-52:40
+71            android:name="com.example.pickfresh.seller.RequestsActivity"
+71-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:51:13-52
+72            android:exported="false" />
+72-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:52:13-37
+73        <activity
+73-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:53:9-55:40
+74            android:name="com.example.pickfresh.seller.SettingsActivity"
+74-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:54:13-52
+75            android:exported="false" />
+75-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:55:13-37
+76        <activity
+76-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:56:9-58:40
+77            android:name="com.example.pickfresh.buyer.ViewOrderitems"
+77-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:57:13-49
+78            android:exported="false" />
+78-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:58:13-37
+79        <activity
+79-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:59:9-61:40
+80            android:name="com.example.pickfresh.buyer.View_Pendings"
+80-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:60:13-48
+81            android:exported="false" />
+81-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:61:13-37
+82        <activity
+82-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:62:9-64:40
+83            android:name="com.example.pickfresh.buyer.ViewItems"
+83-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:63:13-44
+84            android:exported="false" />
+84-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:64:13-37
+85
+86        <meta-data
+86-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:66:9-68:46
+87            android:name="com.google.android.geo.API_KEY"
+87-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:67:13-58
+88            android:value="@string/apikey" />
+88-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:68:13-43
+89
+90        <activity
+90-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:70:9-73:59
+91            android:name="com.example.pickfresh.buyer.MapsActivity"
+91-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:71:13-47
+92            android:exported="false"
+92-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:72:13-37
+93            android:label="@string/title_activity_maps" />
+93-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:73:13-56
+94        <activity
+94-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:74:9-76:40
+95            android:name="com.example.pickfresh.seller.OrderupdateActivity"
+95-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:75:13-55
+96            android:exported="false" />
+96-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:76:13-37
+97        <activity
+97-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:77:9-79:40
+98            android:name="com.example.pickfresh.seller.Viewitems"
+98-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:78:13-45
+99            android:exported="false" />
+99-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:79:13-37
+100        <activity
+100-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:80:9-82:40
+101            android:name="com.example.pickfresh.buyer.SettingsForUser"
+101-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:81:13-50
+102            android:exported="false" />
+102-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:82:13-37
+103        <activity
+103-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:83:9-85:40
+104            android:name="com.example.pickfresh.seller.Additems"
+104-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:84:13-44
+105            android:exported="false" />
+105-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:85:13-37
+106        <activity
+106-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:86:9-88:40
+107            android:name="com.example.pickfresh.admin.AddRental"
+107-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:87:13-44
+108            android:exported="false" />
+108-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:88:13-37
+109        <activity
+109-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:89:9-91:40
+110            android:name="com.example.pickfresh.buyer.BuyerMainActivity"
+110-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:90:13-52
+111            android:exported="false" />
+111-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:91:13-37
+112        <activity
+112-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:92:9-94:40
+113            android:name="com.example.pickfresh.seller.SellerMainActivity"
+113-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:93:13-54
+114            android:exported="false" />
+114-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:94:13-37
+115        <activity
+115-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:95:9-98:46
+116            android:name="com.example.pickfresh.admin.AdminActivity"
+116-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:96:13-48
+117            android:exported="false"
+117-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:97:13-37
+118            android:theme="@style/mytheme" />
+118-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:98:13-43
+119        <activity
+119-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:99:9-101:40
+120            android:name="com.example.pickfresh.LoginActivity"
+120-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:100:13-42
+121            android:exported="false" />
+121-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:101:13-37
+122        <activity
+122-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:102:9-104:40
+123            android:name="com.example.pickfresh.Signup"
+123-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:103:13-35
+124            android:exported="false" />
+124-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:104:13-37
+125        <activity
+125-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:105:9-113:20
+126            android:name="com.example.pickfresh.MainActivity"
+126-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:106:13-41
+127            android:exported="true" >
+127-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:107:13-36
+128            <intent-filter>
+128-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:108:13-112:29
+129                <action android:name="android.intent.action.MAIN" />
+129-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:109:17-69
+129-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:109:25-66
+130
+131                <category android:name="android.intent.category.LAUNCHER" />
+131-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:111:17-77
+131-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:111:27-74
+132            </intent-filter>
+133        </activity>
+134        <activity android:name="com.example.pickfresh.seller.addOns.ViewRentals" />
+134-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:114:9-63
+134-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:114:19-60
+135        <activity android:name="com.example.pickfresh.seller.addOns.ViewMany" />
+135-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:115:9-60
+135-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:115:19-57
+136        <activity android:name="com.example.pickfresh.admin.AddProducts" />
+136-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:116:9-55
+136-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:116:19-52
+137        <activity android:name="com.example.pickfresh.seller.addOns.ViewFertilizers" />
+137-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:117:9-67
+137-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:117:19-64
+138        <activity android:name="com.example.pickfresh.seller.addOns.ViewMyOrders" />
+138-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:118:9-64
+138-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:118:19-61
+139        <activity android:name="com.example.pickfresh.SellerActivity" />
+139-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:119:9-52
+139-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:119:19-49
+140
+141        <receiver
+141-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:121:9-125:47
+142            android:name="com.example.pickfresh.buyer.BroadcastReceiver"
+142-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:122:13-52
+143            android:enabled="true"
+143-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:123:13-35
+144            android:exported="true" />
+144-->C:\Users\gowda\Downloads\PickFresh(11)\PickFresh\app\src\main\AndroidManifest.xml:124:13-36
+145        <!-- Needs to be explicitly declared on P+ -->
+146        <uses-library
+146-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+147            android:name="org.apache.http.legacy"
+147-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+148            android:required="false" />
+148-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\02ff8c231a0c70b47bff028c8ea2e617\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+149
+150        <service
+150-->[com.google.mlkit:translate:17.0.1] C:\Users\gowda\.gradle\caches\transforms-4\cb7d7beedd5d2d3779262ae403071c43\transformed\translate-17.0.1\AndroidManifest.xml:11:9-17:19
+151            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+151-->[com.google.mlkit:translate:17.0.1] C:\Users\gowda\.gradle\caches\transforms-4\cb7d7beedd5d2d3779262ae403071c43\transformed\translate-17.0.1\AndroidManifest.xml:12:13-91
+152            android:directBootAware="true"
+152-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:17:13-43
+153            android:exported="false" >
+153-->[com.google.mlkit:translate:17.0.1] C:\Users\gowda\.gradle\caches\transforms-4\cb7d7beedd5d2d3779262ae403071c43\transformed\translate-17.0.1\AndroidManifest.xml:13:13-37
+154            <meta-data
+154-->[com.google.mlkit:translate:17.0.1] C:\Users\gowda\.gradle\caches\transforms-4\cb7d7beedd5d2d3779262ae403071c43\transformed\translate-17.0.1\AndroidManifest.xml:14:13-16:85
+155                android:name="com.google.firebase.components:com.google.mlkit.nl.translate.NaturalLanguageTranslateRegistrar"
+155-->[com.google.mlkit:translate:17.0.1] C:\Users\gowda\.gradle\caches\transforms-4\cb7d7beedd5d2d3779262ae403071c43\transformed\translate-17.0.1\AndroidManifest.xml:15:17-126
+156                android:value="com.google.firebase.components.ComponentRegistrar" />
+156-->[com.google.mlkit:translate:17.0.1] C:\Users\gowda\.gradle\caches\transforms-4\cb7d7beedd5d2d3779262ae403071c43\transformed\translate-17.0.1\AndroidManifest.xml:16:17-82
+157            <meta-data
+157-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:20:13-22:85
+158                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+158-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:21:17-120
+159                android:value="com.google.firebase.components.ComponentRegistrar" />
+159-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:22:17-82
+160        </service>
+161
+162        <provider
+162-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:9:9-13:38
+163            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+163-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:10:13-78
+164            android:authorities="com.example.pickfresh.mlkitinitprovider"
+164-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:11:13-69
+165            android:exported="false"
+165-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:12:13-37
+166            android:initOrder="99" />
+166-->[com.google.mlkit:common:18.5.0] C:\Users\gowda\.gradle\caches\transforms-4\59cae9f63959df2ba1a8e9b25f73079b\transformed\common-18.5.0\AndroidManifest.xml:13:13-35
+167
+168        <activity
+168-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\911832b9013829f17d8a0be14ead55c3\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+169            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+169-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\911832b9013829f17d8a0be14ead55c3\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+170            android:exported="false"
+170-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\911832b9013829f17d8a0be14ead55c3\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+171            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+171-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\911832b9013829f17d8a0be14ead55c3\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+172
+173        <meta-data
+173-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\b5b5631b9bfb0c0685c554dfb4038418\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+174            android:name="com.google.android.gms.version"
+174-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\b5b5631b9bfb0c0685c554dfb4038418\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+175            android:value="@integer/google_play_services_version" />
+175-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\gowda\.gradle\caches\transforms-4\b5b5631b9bfb0c0685c554dfb4038418\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+176
+177        <provider
+177-->[androidx.emoji2:emoji2:1.2.0] C:\Users\gowda\.gradle\caches\transforms-4\48563a924667f5ee3f47882dbafc8854\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+178            android:name="androidx.startup.InitializationProvider"
+178-->[androidx.emoji2:emoji2:1.2.0] C:\Users\gowda\.gradle\caches\transforms-4\48563a924667f5ee3f47882dbafc8854\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+179            android:authorities="com.example.pickfresh.androidx-startup"
+179-->[androidx.emoji2:emoji2:1.2.0] C:\Users\gowda\.gradle\caches\transforms-4\48563a924667f5ee3f47882dbafc8854\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+180            android:exported="false" >
+180-->[androidx.emoji2:emoji2:1.2.0] C:\Users\gowda\.gradle\caches\transforms-4\48563a924667f5ee3f47882dbafc8854\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+181            <meta-data
+181-->[androidx.emoji2:emoji2:1.2.0] C:\Users\gowda\.gradle\caches\transforms-4\48563a924667f5ee3f47882dbafc8854\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+182                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+182-->[androidx.emoji2:emoji2:1.2.0] C:\Users\gowda\.gradle\caches\transforms-4\48563a924667f5ee3f47882dbafc8854\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+183                android:value="androidx.startup" />
+183-->[androidx.emoji2:emoji2:1.2.0] C:\Users\gowda\.gradle\caches\transforms-4\48563a924667f5ee3f47882dbafc8854\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+184            <meta-data
+184-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\gowda\.gradle\caches\transforms-4\408f68a4ca39d179ebc00d13267fe246\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:29:13-31:52
+185                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+185-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\gowda\.gradle\caches\transforms-4\408f68a4ca39d179ebc00d13267fe246\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:30:17-78
+186                android:value="androidx.startup" />
+186-->[androidx.lifecycle:lifecycle-process:2.6.2] C:\Users\gowda\.gradle\caches\transforms-4\408f68a4ca39d179ebc00d13267fe246\transformed\lifecycle-process-2.6.2\AndroidManifest.xml:31:17-49
+187            <meta-data
+187-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:29:13-31:52
+188                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+188-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:30:17-85
+189                android:value="androidx.startup" />
+189-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:31:17-49
+190        </provider>
+191
+192        <receiver
+192-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:34:9-52:20
+193            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+193-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:35:13-76
+194            android:directBootAware="false"
+194-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:36:13-44
+195            android:enabled="true"
+195-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:37:13-35
+196            android:exported="true"
+196-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:38:13-36
+197            android:permission="android.permission.DUMP" >
+197-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:39:13-57
+198            <intent-filter>
+198-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:40:13-42:29
+199                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+199-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:17-91
+199-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:41:25-88
+200            </intent-filter>
+201            <intent-filter>
+201-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:43:13-45:29
+202                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+202-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:17-85
+202-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:44:25-82
+203            </intent-filter>
+204            <intent-filter>
+204-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:46:13-48:29
+205                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+205-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:17-88
+205-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:47:25-85
+206            </intent-filter>
+207            <intent-filter>
+207-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:49:13-51:29
+208                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+208-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:17-95
+208-->[androidx.profileinstaller:profileinstaller:1.3.1] C:\Users\gowda\.gradle\caches\transforms-4\3e9efcd2967fe848407723482d8cd396\transformed\profileinstaller-1.3.1\AndroidManifest.xml:50:25-92
+209            </intent-filter>
+210        </receiver>
+211
+212        <service
+212-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\gowda\.gradle\caches\transforms-4\38fb743c84111cf9e70900ddd59b4b99\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:29:9-35:19
+213            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+213-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\gowda\.gradle\caches\transforms-4\38fb743c84111cf9e70900ddd59b4b99\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:30:13-103
+214            android:exported="false" >
+214-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\gowda\.gradle\caches\transforms-4\38fb743c84111cf9e70900ddd59b4b99\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:31:13-37
+215            <meta-data
+215-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\gowda\.gradle\caches\transforms-4\38fb743c84111cf9e70900ddd59b4b99\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:32:13-34:39
+216                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+216-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\gowda\.gradle\caches\transforms-4\38fb743c84111cf9e70900ddd59b4b99\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:33:17-94
+217                android:value="cct" />
+217-->[com.google.android.datatransport:transport-backend-cct:2.3.3] C:\Users\gowda\.gradle\caches\transforms-4\38fb743c84111cf9e70900ddd59b4b99\transformed\transport-backend-cct-2.3.3\AndroidManifest.xml:34:17-36
+218        </service>
+219        <service
+219-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\gowda\.gradle\caches\transforms-4\325d8eb504c0a179139b1c10c3b6e61e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:26:9-30:19
+220            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+220-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\gowda\.gradle\caches\transforms-4\325d8eb504c0a179139b1c10c3b6e61e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:27:13-117
+221            android:exported="false"
+221-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\gowda\.gradle\caches\transforms-4\325d8eb504c0a179139b1c10c3b6e61e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:28:13-37
+222            android:permission="android.permission.BIND_JOB_SERVICE" >
+222-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\gowda\.gradle\caches\transforms-4\325d8eb504c0a179139b1c10c3b6e61e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:29:13-69
+223        </service>
+224
+225        <receiver
+225-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\gowda\.gradle\caches\transforms-4\325d8eb504c0a179139b1c10c3b6e61e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:32:9-34:40
+226            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+226-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\gowda\.gradle\caches\transforms-4\325d8eb504c0a179139b1c10c3b6e61e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:33:13-132
+227            android:exported="false" />
+227-->[com.google.android.datatransport:transport-runtime:2.2.6] C:\Users\gowda\.gradle\caches\transforms-4\325d8eb504c0a179139b1c10c3b6e61e\transformed\transport-runtime-2.2.6\AndroidManifest.xml:34:13-37
+228    </application>
+229
+230</manifest>

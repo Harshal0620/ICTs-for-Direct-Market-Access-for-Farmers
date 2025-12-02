@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.pickfresh.app-mergeDebugResources-35:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\gowda\\.gradle\\caches\\transforms-4\\52fdb8d525bcbd4d07c8d49a4ca66ec6\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/back"
+    tools:context=".seller.SellerMainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/back"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginStart="20sp"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="20dp"
+            android:visibility="gone"
+            app:cardCornerRadius="50sp">
+
+            <LinearLayout
+
+                android:id="@+id/switchback"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#C83535"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/status"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.7"
+                    android:gravity="center"
+                    android:textColor="@color/white"
+                    android:textSize="20sp"
+                    tools:ignore="HardcodedText" />
+
+                <androidx.appcompat.widget.SwitchCompat
+                    android:id="@+id/switche"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginEnd="10dp"
+                    android:layout_weight="0.2"
+                    app:thumbTint="@color/back"
+                    app:trackTint="@color/white" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="10dp"
+            android:gravity="center|top"
+            android:orientation="vertical"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cardView">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="wrap_content"
+                app:cardElevation="10sp"
+                app:cardUseCompatPadding="true"
+                app:cardCornerRadius="10sp"
+                android:layout_gravity="end"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:padding="10sp"
+                    android:id="@+id/recommendCrop"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Something Recommend" />
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/reques"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/request"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/requeststxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Requests"
+                        android:textColor="@color/white"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/acceptedbtn"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/accept"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/acceptedtxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Accepted"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/additem"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/order"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/additemtxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Add Item"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/view"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/itemtxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Items"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/settings"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/settings"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/settingtxt"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Settings"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/rentalMachineBTN"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/estate"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/rentalMachine"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Rental machine"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/fertilizerPoint"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/fertilizer"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/fertilizerText"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Fertilizers"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/schemePoint"
+                android:layout_width="300dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="10dp"
+                app:cardBackgroundColor="@color/black"
+                app:cardCornerRadius="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="match_parent"
+                        android:padding="15sp"
+                        android:src="@drawable/scheme_point"
+                        app:tint="@color/white" />
+
+                    <TextView
+                        android:id="@+id/schemes"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="Schemes"
+                        android:textColor="@color/white"
+                        android:textSize="18sp"
+                        tools:ignore="HardcodedText" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,430 @@
+[
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_profile.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_additems.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_additems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_view_requests.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\font_quicksandregular4.ttf.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\font\\quicksandregular4.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_add_products.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\add_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_view_rentals.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_rentals.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_buyer_main.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_buyer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_harvest.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\harvest.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_progressdi.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\progressdi.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\font_quicksandsemibold5.ttf.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\font\\quicksandsemibold5.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_order.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\order.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_more.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_pointer.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\pointer.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_add.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_check.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\check.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_vegetable.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\vegetable.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_translate.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\translate.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_viewitems.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_viewitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_fresh2.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\fresh2.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_details.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\details.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_settings_for_user.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_settings_for_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_scheme_point.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\scheme_point.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_requests.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\requests.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_seller.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_language.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\language.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\raw_anim.json.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\raw\\anim.json"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_my_orders.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\my_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_request.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\request.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_rental_layout.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\rental_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\font_quicksandmedium3.ttf.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\font\\quicksandmedium3.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_settings.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_view_buyer_items.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_buyer_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_view_many.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_many.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_seller.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-xxhdpi_mobile.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-xxhdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-hdpi_mobile.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-hdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_view_accepted.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_accepted.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_schemes.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_schemes.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_requests_fragement.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_requests_fragement.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_sellersfargment.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_sellersfargment.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_view_ferti.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_ferti.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_completed.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-anydpi-v24_mobile.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-anydpi-v24\\mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_gallery.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\gallery.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_accept.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\accept.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\font_quicksandlight2.ttf.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\font\\quicksandlight2.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_nointernet.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\nointernet.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\raw_anim2.json.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\raw\\anim2.json"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_add_seller.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_add_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_userdeatils.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_userdeatils.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_items.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\items.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_view_card.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_selected.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\menu_buyeritems.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\menu\\buyeritems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_view.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\view.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_view_pendings.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_pendings.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_addimage.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\addimage.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\font_quicksandbold1.ttf.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\font\\quicksandbold1.ttf"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_curve.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\curve.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_requests.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-xhdpi_mobile.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-xhdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_wallet.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\wallet.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_viewitems.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\viewitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-ldpi_mobile.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-ldpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-xxxhdpi_mobile.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-xxxhdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_orderupdate.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_orderupdate.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_nouser.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\nouser.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_fresh.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\fresh.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-debug-37:/layout_activity_login.xml.flat",
+        "source": "com.example.pickfresh.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_minus.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_prfolie.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_prfolie.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_dialog_point.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\dialog_point.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_fertilizer.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\fertilizer.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_load_url.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_load_url.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_government_scheme.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_government_scheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable-mdpi_mobile.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-pngs-33:\\drawable-mdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\menu_bottomview.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\menu\\bottomview.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_home.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_estate.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\estate.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_seller_main.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_seller_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\drawable_img.png.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\drawable\\img.png"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_activity_view_orderitems.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_orderitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-debug-37:\\layout_idview.xml.flat",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\idview.xml"
+    }
+]

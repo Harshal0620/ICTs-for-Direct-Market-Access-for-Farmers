@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_schemes.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_schemes.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\view_card.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_sellersfargment.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_sellersfargment.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_view_requests.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\add_products.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\add_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\seller.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\view_rentals.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_rentals.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_add_seller.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_add_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_view_buyer_items.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_buyer_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_view_orderitems.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_orderitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_prfolie.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_prfolie.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\rental_layout.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\rental_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\dialog_point.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\dialog_point.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_settings_for_user.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_settings_for_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_government_scheme.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_government_scheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_requests_fragement.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_requests_fragement.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\idview.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\idview.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_seller.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_seller.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_requests.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_requests.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\language.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\language.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_completed.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_completed.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\view_many.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_many.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\my_orders.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\my_orders.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_additems.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_additems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\nouser.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\nouser.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_orderupdate.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_orderupdate.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_viewitems.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_viewitems.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-mergeDebugResources-36:/layout/activity_login.xml",
+        "source": "com.example.pickfresh.app-main-39:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_view_pendings.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_pendings.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\progressdi.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\progressdi.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_userdeatils.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_userdeatils.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_view_accepted.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_view_accepted.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_admin.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_seller_main.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_seller_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_buyer_main.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_buyer_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\viewitems.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\viewitems.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\view_ferti.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\view_ferti.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\items.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\items.xml"
+    },
+    {
+        "merged": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-mergeDebugResources-36:\\layout\\activity_load_url.xml",
+        "source": "C:\\Users\\gowda\\.gradle\\daemon\\8.6\\com.example.pickfresh.app-main-39:\\layout\\activity_load_url.xml"
+    }
+]

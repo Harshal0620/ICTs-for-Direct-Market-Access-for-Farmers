@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-xhdpi_mobile.png.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-xhdpi/mobile.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_home.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/home.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_seller.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/seller.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/menu_bottomview.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/menu/bottomview.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_items.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/items.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_orderupdate.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_orderupdate.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_settings.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/settings.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_view_requests.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_view_requests.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_fresh2.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/fresh2.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_load_url.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_load_url.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_viewitems.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/viewitems.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_img.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/img.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/font_quicksandmedium3.ttf.flat",
+        "source": "com.example.pickfresh.app-main-38:/font/quicksandmedium3.ttf"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_profile.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/profile.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_viewitems.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_viewitems.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_progressdi.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/progressdi.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_requests.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_requests.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_request.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/request.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_nouser.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/nouser.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-xxxhdpi_mobile.png.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-xxxhdpi/mobile.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_requests_fragement.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_requests_fragement.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_pointer.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/pointer.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/raw_anim.json.flat",
+        "source": "com.example.pickfresh.app-main-38:/raw/anim.json"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_view_buyer_items.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_view_buyer_items.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_harvest.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/harvest.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_signup.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/raw_anim2.json.flat",
+        "source": "com.example.pickfresh.app-main-38:/raw/anim2.json"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_seller.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_seller.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_admin.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-hdpi_mobile.png.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-hdpi/mobile.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_rental_layout.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/rental_layout.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_government_scheme.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_government_scheme.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_maps.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_view_rentals.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/view_rentals.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-xxhdpi_mobile.png.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-xxhdpi/mobile.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_my_orders.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/my_orders.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/xml_backup_rules.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_prfolie.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_prfolie.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/font_quicksandlight2.ttf.flat",
+        "source": "com.example.pickfresh.app-main-38:/font/quicksandlight2.ttf"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_vegetable.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/vegetable.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_seller_main.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_seller_main.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_idview.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/idview.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_view_many.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/view_many.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_additems.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_additems.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_fertilizer.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/fertilizer.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_view_pendings.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_view_pendings.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_settings.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_login.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_view_card.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/view_card.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_scheme_point.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/scheme_point.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_estate.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/estate.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_dialog_point.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/dialog_point.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_plus.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/plus.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/font_quicksandsemibold5.ttf.flat",
+        "source": "com.example.pickfresh.app-main-38:/font/quicksandsemibold5.ttf"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_gallery.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/gallery.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_minus.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/minus.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_fresh.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/fresh.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_logout.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/logout.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_view_ferti.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/view_ferti.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_wallet.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/wallet.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_settings_for_user.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_settings_for_user.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_main.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_selected.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/selected.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_view_orderitems.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_view_orderitems.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-anydpi-v24_mobile.xml.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-anydpi-v24/mobile.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_add_seller.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_add_seller.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_userdeatils.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_userdeatils.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_completed.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_completed.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_details.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/details.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_view.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/view.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_nointernet.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/nointernet.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_translate.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/translate.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_add.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/add.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_accept.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/accept.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-mdpi_mobile.png.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-mdpi/mobile.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_buyer_main.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_buyer_main.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_addimage.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/addimage.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_requests.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/requests.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_language.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/language.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_more.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/more.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_order.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/order.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_sellersfargment.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_sellersfargment.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_curve.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/curve.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/font_quicksandbold1.ttf.flat",
+        "source": "com.example.pickfresh.app-main-38:/font/quicksandbold1.ttf"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable-ldpi_mobile.png.flat",
+        "source": "com.example.pickfresh.app-pngs-33:/drawable-ldpi/mobile.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/menu_buyeritems.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/menu/buyeritems.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/drawable_check.png.flat",
+        "source": "com.example.pickfresh.app-main-38:/drawable/check.png"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_view_accepted.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_view_accepted.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_activity_schemes.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/activity_schemes.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/layout_add_products.xml.flat",
+        "source": "com.example.pickfresh.app-main-38:/layout/add_products.xml"
+    },
+    {
+        "merged": "com.example.pickfresh.app-release-37:/font_quicksandregular4.ttf.flat",
+        "source": "com.example.pickfresh.app-main-38:/font/quicksandregular4.ttf"
+    }
+]
